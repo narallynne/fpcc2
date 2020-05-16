@@ -1,2 +1,2 @@
 # fpcc2
-FPCC II
+Laboratórios da disciplina FPCC II
